@@ -1,0 +1,5 @@
+rows: 85907
+columns: 20
+missing_values: 435995
+median_csat: None
+binary_satisfied_percent: None
